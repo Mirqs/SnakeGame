@@ -9,7 +9,7 @@ function StartGame(){
     let secondfood = secFoodPosition();    
 
     pic = new Image();
-    pic.src     = 'https://static.wikia.nocookie.net/fnaf-fanon-animatronics/images/4/40/%D0%91%D0%B0%D0%BD%D0%B0%D0%BD.png/revision/latest?cb=20190614113143&path-prefix=ru';
+    pic.src     = 'https://api.ecomarket.ru/imgs/products/9196/banan---1-sht--1.1636984147.jpg';
 
     secpic = new Image();
     secpic.src  = 'https://media.istockphoto.com/id/184276818/ru/%D1%84%D0%BE%D1%82%D0%BE/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5-%D1%8F%D0%B1%D0%BB%D0%BE%D0%BA%D0%BE.jpg?s=612x612&w=0&k=20&c=HDH3wLEAvc7soT85pAcS4JOQu5KJ8xM9JOilVe1zFLI=';
